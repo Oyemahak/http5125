@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Task1_WebAPI.props" />
+</Project>
