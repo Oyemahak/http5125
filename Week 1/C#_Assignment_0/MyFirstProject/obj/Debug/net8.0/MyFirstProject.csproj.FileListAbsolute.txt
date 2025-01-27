@@ -1,0 +1,65 @@
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/appsettings.Development.json
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/appsettings.json
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/MyFirstProject
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/MyFirstProject.deps.json
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/MyFirstProject.runtimeconfig.json
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/MyFirstProject.dll
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/MyFirstProject.pdb
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.csproj.AssemblyReference.cache
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.AssemblyInfoInputs.cache
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.AssemblyInfo.cs
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.MvcApplicationPartsAssemblyInfo.cs
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets/msbuild.MyFirstProject.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets/msbuild.build.MyFirstProject.props
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyFirstProject.props
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyFirstProject.props
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/scopedcss/bundle/MyFirstProject.styles.css
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstP.926B8CE4.Up2Date
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.dll
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/refint/MyFirstProject.dll
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.pdb
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.genruntimeconfig.cache
+/Users/mahak/Desktop/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/ref/MyFirstProject.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/appsettings.Development.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/appsettings.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/MyFirstProject
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/MyFirstProject.deps.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/MyFirstProject.runtimeconfig.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/MyFirstProject.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/MyFirstProject.pdb
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.csproj.AssemblyReference.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.AssemblyInfoInputs.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.AssemblyInfo.cs
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.MvcApplicationPartsAssemblyInfo.cs
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.sourcelink.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets/msbuild.MyFirstProject.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets/msbuild.build.MyFirstProject.props
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyFirstProject.props
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyFirstProject.props
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/scopedcss/bundle/MyFirstProject.styles.css
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstP.926B8CE4.Up2Date
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/refint/MyFirstProject.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.pdb
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/MyFirstProject.genruntimeconfig.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 1/C#_Assignment_0/MyFirstProject/obj/Debug/net8.0/ref/MyFirstProject.dll

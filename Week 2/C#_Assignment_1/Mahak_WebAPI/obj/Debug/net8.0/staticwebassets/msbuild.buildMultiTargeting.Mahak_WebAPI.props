@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Mahak_WebAPI.props" />
+</Project>

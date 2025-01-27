@@ -1,7 +1,0 @@
-/Users/mahak/Documents/Task1_WebAPI/obj/Debug/net8.0/Task1_WebAPI.csproj.AssemblyReference.cache
-/Users/mahak/Documents/Task1_WebAPI/obj/Debug/net8.0/Task1_WebAPI.GeneratedMSBuildEditorConfig.editorconfig
-/Users/mahak/Documents/Task1_WebAPI/obj/Debug/net8.0/Task1_WebAPI.AssemblyInfoInputs.cache
-/Users/mahak/Documents/Task1_WebAPI/obj/Debug/net8.0/Task1_WebAPI.AssemblyInfo.cs
-/Users/mahak/Documents/Task1_WebAPI/obj/Debug/net8.0/Task1_WebAPI.csproj.CoreCompileInputs.cache
-/Users/mahak/Documents/Task1_WebAPI/obj/Debug/net8.0/Task1_WebAPI.MvcApplicationPartsAssemblyInfo.cs
-/Users/mahak/Documents/Task1_WebAPI/obj/Debug/net8.0/Task1_WebAPI.MvcApplicationPartsAssemblyInfo.cache

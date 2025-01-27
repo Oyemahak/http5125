@@ -1,0 +1,65 @@
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/appsettings.json
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Mahak_WebAPI
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Mahak_WebAPI.deps.json
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Mahak_WebAPI.runtimeconfig.json
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Mahak_WebAPI.dll
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Mahak_WebAPI.pdb
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.csproj.AssemblyReference.cache
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.AssemblyInfoInputs.cache
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.AssemblyInfo.cs
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.csproj.CoreCompileInputs.cache
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.Mahak_WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.Mahak_WebAPI.props
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Mahak_WebAPI.props
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Mahak_WebAPI.props
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/scopedcss/bundle/Mahak_WebAPI.styles.css
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_We.3509C4D4.Up2Date
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.dll
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/refint/Mahak_WebAPI.dll
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.pdb
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.genruntimeconfig.cache
+/Users/mahak/Desktop/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/ref/Mahak_WebAPI.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/appsettings.Development.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/appsettings.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Mahak_WebAPI
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Mahak_WebAPI.deps.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Mahak_WebAPI.runtimeconfig.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Mahak_WebAPI.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Mahak_WebAPI.pdb
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.csproj.AssemblyReference.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.AssemblyInfoInputs.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.AssemblyInfo.cs
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.csproj.CoreCompileInputs.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.MvcApplicationPartsAssemblyInfo.cs
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.sourcelink.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets.build.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets.development.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.Mahak_WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.build.Mahak_WebAPI.props
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Mahak_WebAPI.props
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Mahak_WebAPI.props
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/scopedcss/bundle/Mahak_WebAPI.styles.css
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_We.3509C4D4.Up2Date
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/refint/Mahak_WebAPI.dll
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.pdb
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/Mahak_WebAPI.genruntimeconfig.cache
+/Users/mahak/Desktop/Web Developement/Assignments/Back-End Web Development 1 - HTTP-5125/Week 2/C#_Assignment_1/Mahak_WebAPI/obj/Debug/net8.0/ref/Mahak_WebAPI.dll
