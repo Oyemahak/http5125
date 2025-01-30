@@ -17,7 +17,7 @@ namespace Mahak_WebAPI.Controllers
         /// Response: "Shh.. the secret is 5"
         /// </example>
         [HttpPost("secret")]
-        public ActionResult<string> PostSecret([FromBody] int secret)
+        public string PostSecret([FromBody] int secret)
         {
             return $"Shh.. the secret is {secret}";
         }

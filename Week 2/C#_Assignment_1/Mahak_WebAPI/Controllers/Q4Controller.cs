@@ -15,7 +15,7 @@ namespace Mahak_WebAPI.Controllers
         /// Response: "Who’s there?"
         /// </example>
         [HttpPost("knockknock")]
-        public ActionResult<string> GetKnockKnockJoke()
+        public string GetKnockKnockJoke()
         {
             return "Who’s there?";
         }

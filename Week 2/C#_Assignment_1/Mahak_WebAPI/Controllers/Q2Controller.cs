@@ -16,7 +16,7 @@ namespace Mahak_WebAPI.Controllers
         /// Response: "Hi Gary!"
         /// </example>
         [HttpGet("greeting")]
-        public ActionResult<string> GetGreeting([FromQuery] string name)
+        public string GetGreeting([FromQuery] string name)
         {
             return $"Hi {name}!";
         }

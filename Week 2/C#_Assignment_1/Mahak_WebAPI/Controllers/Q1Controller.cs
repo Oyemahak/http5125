@@ -15,7 +15,7 @@ namespace Mahak_WebAPI.Controllers
         /// Response: "Welcome to 5125!"
         /// </example>
         [HttpGet("welcome")]
-        public ActionResult<string> GetWelcomeMessage()
+        public string GetWelcomeMessage()
         {
             return "Welcome to 5125!";
         }

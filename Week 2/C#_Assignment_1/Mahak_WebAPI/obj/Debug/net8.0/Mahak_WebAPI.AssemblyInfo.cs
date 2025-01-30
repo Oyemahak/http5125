@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mahak_WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59fe85839032215e14ff1cf956db72c37a90a361")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f635465c73010e3d218d48e5dc4020aa2a48055")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mahak_WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mahak_WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

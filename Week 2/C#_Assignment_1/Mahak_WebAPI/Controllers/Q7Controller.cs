@@ -16,7 +16,7 @@ namespace Mahak_WebAPI.Controllers
         /// Response: 2000-01-02
         /// </example>
         [HttpGet("timemachine")]
-        public ActionResult<string> GetAdjustedDate([FromQuery] int days)
+        public string GetAdjustedDate([FromQuery] int days)
         {
             var adjustedDate = DateTime.Today.AddDays(days).ToString("yyyy-MM-dd");
             return adjustedDate;
